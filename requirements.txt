@@ -19,11 +19,11 @@ cryptography==50.0.0
 debugpy==1.8.20
 decorator==5.2.1
 defusedxml==0.7.1
-Django==6.0.7
-djangorestframework==3.17.1
+Django==5.2.17
+djangorestframework==3.16.1
 executing==2.2.1
 fastjsonschema==2.21.2
-firebase_admin==7.5.0
+firebase-admin==7.5.0
 fqdn==1.5.1
 gitdb==4.0.12
 GitPython==3.1.46
